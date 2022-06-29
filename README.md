@@ -48,7 +48,7 @@ I still need much much more education and development in HTML and CSS but this i
 
 - [Interneting is Hard](https://www.internetingishard.com/) - Interneting is hard has 14 chapters and 284 examples to code along with. This gave me some experience working in the code editor.
 
-- [YouTube University] - YouTube is an excellent resource for anything and everything you need to learn. On this project I used it to understand and get started with Git and GitHub as well as to learn how to deploy my project on GitHub Pages.
+- YouTube University - YouTube is an excellent resource for anything and everything you need to learn. On this project I used it to understand and get started with Git and GitHub as well as to learn how to deploy my project on GitHub Pages.
 
 ## Author
 
@@ -57,4 +57,4 @@ I still need much much more education and development in HTML and CSS but this i
 
 ## Acknowledgments
 
-Shout out to my mentor Justin Schneider (@justinmakescode on Twitter) for all his help and guidance. He always picked up the phone or responded to my text when I needed it. One particular time we jumped on a video call so he could see why my code wasn't working and we discovered that I had spelled style wrong in my style element on my HTML markup!
+Shout out to my mentor Justin Schneider (Twitter: @justinmakescode) for all his help and guidance. He always picked up the phone or responded to my text when I needed it. One particular time we jumped on a video call so he could see why my code wasn't working and we discovered that I had spelled style wrong in my style element on my HTML markup!
