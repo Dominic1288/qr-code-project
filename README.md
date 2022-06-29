@@ -21,12 +21,11 @@ This is my very first HTML, CSS project. I found it on frontendmentor.io. I have
 
 ### Screenshot
 
-<img src="C:\Users\domin\OneDrive\Documents\GitHub\qr-code-component-main\screenshot.jpg>screenshot">
+<a><img src="C:\Users\domin\OneDrive\Documents\GitHub\qr-code-component-main\screenshot.jpg>screenshot">screenshot</a>
 
 ### Links
 
-- Solution URL: [https://dominic1288.github.io/QR-Component-Project/](https://dominic1288.github.io/QR-Component-Project/)
-
+- Solution URL: []
 ## My process
 
 ### Built with
