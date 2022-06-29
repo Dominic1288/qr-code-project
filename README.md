@@ -25,7 +25,9 @@ This is my very first HTML, CSS project. I found it on frontendmentor.io. I have
 
 ### Links
 
-- Solution URL: [https://dominic1288.github.io/qr-code-project/]
+- Repository URL: [https://github.com/Dominic1288/qr-code-project.git]
+- Live Site URL: [https://dominic1288.github.io/qr-code-project/]
+
 ## My process
 
 ### Built with
