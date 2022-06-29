@@ -21,7 +21,7 @@ This is my very first HTML, CSS project. I found it on frontendmentor.io. I have
 
 ### Screenshot
 
-<a><img src="C:\Users\domin\OneDrive\Documents\GitHub\qr-code-component-main\screenshot.jpg>screenshot">screenshot</a>
+![ScreenShot](screenshot.jpg)
 
 ### Links
 
