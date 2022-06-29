@@ -21,7 +21,7 @@ This is my very first HTML, CSS project. I found it on frontendmentor.io. I have
 
 ### Screenshot
 
-![Screenshot Photo]
+![C:\Users\domin\OneDrive\Documents\GitHub\qr-code-component-main\screenshot.jpg]
 
 ### Links
 
